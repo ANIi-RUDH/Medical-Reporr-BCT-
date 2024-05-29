@@ -60,7 +60,7 @@ contract Hospital  {
          
         
            /**
-     * @dev Retreive hospital details
+     *
      * @param hospital_id hospital registration id
      * */
          function retreive_hospital_details(uint256 hospital_id) public view returns (string memory,string memory,string memory){
