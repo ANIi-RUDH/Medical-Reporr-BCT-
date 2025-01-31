@@ -50,9 +50,6 @@ contract Patient {
          _;
 
      }
-      
-     
-     
      
      /**
      * @dev Store patient details
